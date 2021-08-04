@@ -271,6 +271,6 @@ public class MyWebAppInitializer extends AbstractDispatcherServletInitializer {
 }
 ```       
 
-각각의 필터는 구체적인 타입으로 선언되어야 하며, 선언되 타입들은 ```DispatcherSevlet``` 에 맵핑된다.   
+각각의 필터는 구체적인 타입으로 선언되어야 하며, 선언된 타입들은 ```DispatcherSevlet``` 에 맵핑된다.   
 
 ---
